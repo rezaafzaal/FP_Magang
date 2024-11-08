@@ -1,0 +1,2 @@
+FP_Magang
+-DCATKIN_DEVEL_PREFIX=/home/rezaafzaal/FP_Magang/devel -DCMAKE_INSTALL_PREFIX=/home/rezaafzaal/FP_Magang/install -G Unix Makefiles
